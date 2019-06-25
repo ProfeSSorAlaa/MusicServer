@@ -1,0 +1,6 @@
+owner=458733589266432020
+prefix=?
+game=Surgical BotMusic
+stayinchannel=true
+songinstatus=false
+token=NTkzMTc4NTUxODIyNTgxNzgw.XRKIQg.0rHY2iYo2ICYyQ9ODopmnIwXW1c
